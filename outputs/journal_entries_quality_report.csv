@@ -1,0 +1,11 @@
+column,data_type,missing_values,missing_percentage,duplicate_rows_in_dataset
+id,str,0,0.0,0
+company_id,str,0,0.0,0
+entry_number,int64,0,0.0,0
+entry_date,str,0,0.0,0
+description,str,0,0.0,0
+source_module,str,0,0.0,0
+source_id,str,1,0.01,0
+is_adjusting,bool,0,0.0,0
+is_reversal,bool,0,0.0,0
+posted,bool,0,0.0,0

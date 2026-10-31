@@ -1,0 +1,6 @@
+dataset,row_count,column_count,duplicate_rows,missing_cells
+journal_entries,6764,10,0,1
+journal_entry_lines,17027,8,0,17027
+chart_of_accounts,60,10,0,60
+companies,1,18,0,1
+trial_balances,380,8,0,0

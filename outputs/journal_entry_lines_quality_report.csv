@@ -1,0 +1,9 @@
+column,data_type,missing_values,missing_percentage,duplicate_rows_in_dataset
+id,str,0,0.0,0
+journal_entry_id,str,0,0.0,0
+account_id,str,0,0.0,0
+description,str,0,0.0,0
+debit,float64,0,0.0,0
+credit,float64,0,0.0,0
+tax_code,float64,17027,100.0,0
+tax_amount,float64,0,0.0,0

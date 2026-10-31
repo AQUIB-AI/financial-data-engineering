@@ -1,0 +1,61 @@
+account_code,account_name,account_type,journal_entries,total_debits,total_credits,net_debit
+1-1100,Accounts Receivable,asset,4712,5363188.74,4862168.83,501019.91
+1-1000,Bank Account - Operating,asset,3209,5062168.83,2854170.98,2207997.85
+4-1000,Sales Revenue,revenue,2441,0.0,4989012.53,-4989012.53
+2-1000,Accounts Payable,liability,1787,1919043.5,1943249.54,-24206.04
+5-1000,Cost of Goods Sold,expense,902,1807674.55,0.0,1807674.55
+6-1000,Salaries & Wages,expense,52,1147084.64,0.0,1147084.64
+2-1100,Sales Tax Payable,liability,2441,0.0,374176.21,-374176.21
+2-1200,Federal Income Tax Withholding Payable,liability,52,0.0,211957.16,-211957.16
+3-1000,Owner's Equity / Common Stock,equity,1,0.0,200000.0,-200000.0
+1-1400,Sales Tax Receivable,asset,902,135574.99,0.0,135574.99
+2-1300,FICA Payable (Social Security & Medicare),liability,52,0.0,45883.6,-45883.6
+6-1100,Employer FICA Expense,expense,52,45883.6,0.0,45883.6
+6-2800,Depreciation Expense,expense,212,17143.28,0.0,17143.28
+1-2110,Less Accumulated Depreciation - Furniture & Fixtures,asset,96,0.0,6364.32,-6364.32
+1-2210,Less Accumulated Depreciation - Vehicles,asset,24,0.0,5572.56,-5572.56
+1-2010,Less Accumulated Depreciation - Office Equipment,asset,92,0.0,5206.4,-5206.4
+6-1150,FUTA Expense,expense,0,0.0,0.0,0.0
+4-2000,Interest Income,revenue,0,0.0,0.0,0.0
+6-2500,Advertising & Marketing,expense,0,0.0,0.0,0.0
+6-2900,Vehicle Expenses,expense,0,0.0,0.0,0.0
+2-1800,401(k) Payable,liability,0,0.0,0.0,0.0
+6-9000,Miscellaneous Expense,expense,0,0.0,0.0,0.0
+5-1300,Inventory Write-offs,expense,0,0.0,0.0,0.0
+2-1700,Accrued PTO Liability,liability,0,0.0,0.0,0.0
+6-3100,Printing & Office Expense,expense,0,0.0,0.0,0.0
+6-2200,Insurance,expense,0,0.0,0.0,0.0
+2-1350,FUTA Payable,liability,0,0.0,0.0,0.0
+6-2400,Office Supplies,expense,0,0.0,0.0,0.0
+3-2000,Retained Earnings,equity,0,0.0,0.0,0.0
+2-2000,Bank Loan,liability,0,0.0,0.0,0.0
+6-3300,Travel & Entertainment,expense,0,0.0,0.0,0.0
+6-2600,Professional Fees,expense,0,0.0,0.0,0.0
+1-1300,Prepaid Expenses,asset,0,0.0,0.0,0.0
+6-2100,Utilities,expense,0,0.0,0.0,0.0
+6-3000,Repairs & Maintenance,expense,0,0.0,0.0,0.0
+6-2300,Telephone & Internet,expense,0,0.0,0.0,0.0
+1-2100,Furniture & Fixtures,asset,0,0.0,0.0,0.0
+1-1010,Bank Account - Savings,asset,0,0.0,0.0,0.0
+1-2000,Office Equipment,asset,0,0.0,0.0,0.0
+6-1200,Workers Compensation Insurance,expense,0,0.0,0.0,0.0
+3-3000,Current Year Earnings,equity,0,0.0,0.0,0.0
+2-1400,Wages Payable,liability,0,0.0,0.0,0.0
+5-1100,Shipping & Delivery,expense,0,0.0,0.0,0.0
+1-1150,Allowance for Doubtful Accounts,asset,0,0.0,0.0,0.0
+6-1300,Employee Benefits,expense,0,0.0,0.0,0.0
+1-1200,Inventory,asset,0,0.0,0.0,0.0
+4-1200,Sales Discounts,revenue,0,0.0,0.0,0.0
+5-1200,Purchase Returns & Allowances,expense,0,0.0,0.0,0.0
+2-1600,Unearned Revenue,liability,0,0.0,0.0,0.0
+6-2000,Rent Expense,expense,0,0.0,0.0,0.0
+3-4000,Owner's Draws,equity,0,0.0,0.0,0.0
+4-3000,Other Income,revenue,0,0.0,0.0,0.0
+1-2200,Vehicles,asset,0,0.0,0.0,0.0
+6-2700,Bank Fees & Charges,expense,0,0.0,0.0,0.0
+6-3400,Bad Debt Expense,expense,0,0.0,0.0,0.0
+6-1250,401(k) Employer Match,expense,0,0.0,0.0,0.0
+2-1250,State Income Tax Withholding Payable,liability,0,0.0,0.0,0.0
+4-1100,Sales Returns & Allowances,revenue,0,0.0,0.0,0.0
+6-3200,Subscriptions & Dues,expense,0,0.0,0.0,0.0
+2-1500,Accrued Expenses,liability,0,0.0,0.0,0.0

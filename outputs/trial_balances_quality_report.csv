@@ -1,0 +1,9 @@
+column,data_type,missing_values,missing_percentage,duplicate_rows_in_dataset
+id,str,0,0.0,0
+company_id,str,0,0.0,0
+period_end,str,0,0.0,0
+account_id,str,0,0.0,0
+account_code,str,0,0.0,0
+account_name,str,0,0.0,0
+debit_balance,float64,0,0.0,0
+credit_balance,float64,0,0.0,0

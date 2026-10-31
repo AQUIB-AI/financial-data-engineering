@@ -1,0 +1,101 @@
+entry_number,entry_date,entry_description,account_code,account_name,line_description,debit,credit,line_amount
+1,2024-01-01,Opening balance — owner's equity contribution,1-1000,Bank Account - Operating,Opening balance — owner's equity contribution,200000.0,0.0,200000.0
+1,2024-01-01,Opening balance — owner's equity contribution,3-1000,Owner's Equity / Common Stock,Opening balance — owner's equity contribution,0.0,200000.0,200000.0
+4286,2025-07-03,Payroll processed,6-1000,Salaries & Wages,Payroll processed,23033.4,0.0,23033.4
+4434,2025-07-17,Payroll processed,6-1000,Salaries & Wages,Payroll processed,23033.4,0.0,23033.4
+4570,2025-07-31,Payroll processed,6-1000,Salaries & Wages,Payroll processed,23033.4,0.0,23033.4
+3782,2025-05-22,Payroll processed,6-1000,Salaries & Wages,Payroll processed,22833.12,0.0,22833.12
+5769,2025-11-06,Payroll processed,6-1000,Salaries & Wages,Payroll processed,22718.9,0.0,22718.9
+6228,2025-12-04,Payroll processed,6-1000,Salaries & Wages,Payroll processed,22709.54,0.0,22709.54
+5401,2025-10-09,Payroll processed,6-1000,Salaries & Wages,Payroll processed,22681.64,0.0,22681.64
+5202,2025-09-25,Payroll processed,6-1000,Salaries & Wages,Payroll processed,22631.93,0.0,22631.93
+5042,2025-09-11,Payroll processed,6-1000,Salaries & Wages,Payroll processed,22571.3,0.0,22571.3
+3945,2025-06-05,Payroll processed,6-1000,Salaries & Wages,Payroll processed,22493.59,0.0,22493.59
+5578,2025-10-23,Payroll processed,6-1000,Salaries & Wages,Payroll processed,22424.18,0.0,22424.18
+5969,2025-11-20,Payroll processed,6-1000,Salaries & Wages,Payroll processed,22424.18,0.0,22424.18
+6513,2025-12-18,Payroll processed,6-1000,Salaries & Wages,Payroll processed,22424.18,0.0,22424.18
+2683,2025-01-30,Payroll processed,6-1000,Salaries & Wages,Payroll processed,22396.21,0.0,22396.21
+3613,2025-05-08,Payroll processed,6-1000,Salaries & Wages,Payroll processed,22353.34,0.0,22353.34
+2420,2025-01-02,Payroll processed,6-1000,Salaries & Wages,Payroll processed,22319.67,0.0,22319.67
+957,2024-07-18,Payroll processed,6-1000,Salaries & Wages,Payroll processed,22313.89,0.0,22313.89
+2263,2024-12-19,Payroll processed,6-1000,Salaries & Wages,Payroll processed,22288.69,0.0,22288.69
+1645,2024-10-24,Payroll processed,6-1000,Salaries & Wages,Payroll processed,22254.94,0.0,22254.94
+1533,2024-10-10,Payroll processed,6-1000,Salaries & Wages,Payroll processed,22241.05,0.0,22241.05
+1057,2024-08-01,Payroll processed,6-1000,Salaries & Wages,Payroll processed,22145.07,0.0,22145.07
+883,2024-07-04,Payroll processed,6-1000,Salaries & Wages,Payroll processed,22037.74,0.0,22037.74
+1155,2024-08-15,Payroll processed,6-1000,Salaries & Wages,Payroll processed,22037.74,0.0,22037.74
+1240,2024-08-29,Payroll processed,6-1000,Salaries & Wages,Payroll processed,22037.74,0.0,22037.74
+1337,2024-09-12,Payroll processed,6-1000,Salaries & Wages,Payroll processed,22037.74,0.0,22037.74
+1437,2024-09-26,Payroll processed,6-1000,Salaries & Wages,Payroll processed,22037.74,0.0,22037.74
+1785,2024-11-07,Payroll processed,6-1000,Salaries & Wages,Payroll processed,22037.74,0.0,22037.74
+1914,2024-11-21,Payroll processed,6-1000,Salaries & Wages,Payroll processed,22037.74,0.0,22037.74
+2083,2024-12-05,Payroll processed,6-1000,Salaries & Wages,Payroll processed,22037.74,0.0,22037.74
+2560,2025-01-16,Payroll processed,6-1000,Salaries & Wages,Payroll processed,22037.74,0.0,22037.74
+2813,2025-02-13,Payroll processed,6-1000,Salaries & Wages,Payroll processed,22037.74,0.0,22037.74
+2920,2025-02-27,Payroll processed,6-1000,Salaries & Wages,Payroll processed,22037.74,0.0,22037.74
+3058,2025-03-13,Payroll processed,6-1000,Salaries & Wages,Payroll processed,22037.74,0.0,22037.74
+3197,2025-03-27,Payroll processed,6-1000,Salaries & Wages,Payroll processed,22037.74,0.0,22037.74
+3325,2025-04-10,Payroll processed,6-1000,Salaries & Wages,Payroll processed,22037.74,0.0,22037.74
+3462,2025-04-24,Payroll processed,6-1000,Salaries & Wages,Payroll processed,22037.74,0.0,22037.74
+4116,2025-06-19,Payroll processed,6-1000,Salaries & Wages,Payroll processed,22037.74,0.0,22037.74
+4877,2025-08-28,Payroll processed,6-1000,Salaries & Wages,Payroll processed,21603.55,0.0,21603.55
+4733,2025-08-14,Payroll processed,6-1000,Salaries & Wages,Payroll processed,21543.7,0.0,21543.7
+363,2024-04-11,Payroll processed,6-1000,Salaries & Wages,Payroll processed,21534.8,0.0,21534.8
+781,2024-06-20,Payroll processed,6-1000,Salaries & Wages,Payroll processed,21511.08,0.0,21511.08
+216,2024-03-14,Payroll processed,6-1000,Salaries & Wages,Payroll processed,21502.35,0.0,21502.35
+155,2024-02-29,Payroll processed,6-1000,Salaries & Wages,Payroll processed,21469.91,0.0,21469.91
+5,2024-01-04,Payroll processed,6-1000,Salaries & Wages,Payroll processed,21454.79,0.0,21454.79
+680,2024-06-06,Payroll processed,6-1000,Salaries & Wages,Payroll processed,21381.24,0.0,21381.24
+29,2024-01-18,Payroll processed,6-1000,Salaries & Wages,Payroll processed,21307.68,0.0,21307.68
+73,2024-02-01,Payroll processed,6-1000,Salaries & Wages,Payroll processed,21307.68,0.0,21307.68
+109,2024-02-15,Payroll processed,6-1000,Salaries & Wages,Payroll processed,21307.68,0.0,21307.68
+293,2024-03-28,Payroll processed,6-1000,Salaries & Wages,Payroll processed,21307.68,0.0,21307.68
+420,2024-04-25,Payroll processed,6-1000,Salaries & Wages,Payroll processed,21307.68,0.0,21307.68
+505,2024-05-09,Payroll processed,6-1000,Salaries & Wages,Payroll processed,21307.68,0.0,21307.68
+581,2024-05-23,Payroll processed,6-1000,Salaries & Wages,Payroll processed,21307.68,0.0,21307.68
+3782,2025-05-22,Payroll processed,1-1000,Bank Account - Operating,Payroll processed,0.0,18763.85,18763.85
+4286,2025-07-03,Payroll processed,1-1000,Bank Account - Operating,Payroll processed,0.0,18718.31,18718.31
+4434,2025-07-17,Payroll processed,1-1000,Bank Account - Operating,Payroll processed,0.0,18718.31,18718.31
+4570,2025-07-31,Payroll processed,1-1000,Bank Account - Operating,Payroll processed,0.0,18718.31,18718.31
+3945,2025-06-05,Payroll processed,1-1000,Bank Account - Operating,Payroll processed,0.0,18424.32,18424.32
+5769,2025-11-06,Payroll processed,1-1000,Bank Account - Operating,Payroll processed,0.0,18366.32,18366.32
+6228,2025-12-04,Payroll processed,1-1000,Bank Account - Operating,Payroll processed,0.0,18356.96,18356.96
+5401,2025-10-09,Payroll processed,1-1000,Bank Account - Operating,Payroll processed,0.0,18329.06,18329.06
+2683,2025-01-30,Payroll processed,1-1000,Bank Account - Operating,Payroll processed,0.0,18326.94,18326.94
+3613,2025-05-08,Payroll processed,1-1000,Bank Account - Operating,Payroll processed,0.0,18284.07,18284.07
+5202,2025-09-25,Payroll processed,1-1000,Bank Account - Operating,Payroll processed,0.0,18279.35,18279.35
+2420,2025-01-02,Payroll processed,1-1000,Bank Account - Operating,Payroll processed,0.0,18250.4,18250.4
+957,2024-07-18,Payroll processed,1-1000,Bank Account - Operating,Payroll processed,0.0,18244.62,18244.62
+2263,2024-12-19,Payroll processed,1-1000,Bank Account - Operating,Payroll processed,0.0,18219.42,18219.42
+5042,2025-09-11,Payroll processed,1-1000,Bank Account - Operating,Payroll processed,0.0,18218.72,18218.72
+1645,2024-10-24,Payroll processed,1-1000,Bank Account - Operating,Payroll processed,0.0,18185.67,18185.67
+1533,2024-10-10,Payroll processed,1-1000,Bank Account - Operating,Payroll processed,0.0,18171.78,18171.78
+1057,2024-08-01,Payroll processed,1-1000,Bank Account - Operating,Payroll processed,0.0,18075.8,18075.8
+5578,2025-10-23,Payroll processed,1-1000,Bank Account - Operating,Payroll processed,0.0,18071.6,18071.6
+5969,2025-11-20,Payroll processed,1-1000,Bank Account - Operating,Payroll processed,0.0,18071.6,18071.6
+6513,2025-12-18,Payroll processed,1-1000,Bank Account - Operating,Payroll processed,0.0,18071.6,18071.6
+883,2024-07-04,Payroll processed,1-1000,Bank Account - Operating,Payroll processed,0.0,17968.47,17968.47
+1155,2024-08-15,Payroll processed,1-1000,Bank Account - Operating,Payroll processed,0.0,17968.47,17968.47
+1240,2024-08-29,Payroll processed,1-1000,Bank Account - Operating,Payroll processed,0.0,17968.47,17968.47
+1337,2024-09-12,Payroll processed,1-1000,Bank Account - Operating,Payroll processed,0.0,17968.47,17968.47
+1437,2024-09-26,Payroll processed,1-1000,Bank Account - Operating,Payroll processed,0.0,17968.47,17968.47
+1785,2024-11-07,Payroll processed,1-1000,Bank Account - Operating,Payroll processed,0.0,17968.47,17968.47
+1914,2024-11-21,Payroll processed,1-1000,Bank Account - Operating,Payroll processed,0.0,17968.47,17968.47
+2083,2024-12-05,Payroll processed,1-1000,Bank Account - Operating,Payroll processed,0.0,17968.47,17968.47
+2560,2025-01-16,Payroll processed,1-1000,Bank Account - Operating,Payroll processed,0.0,17968.47,17968.47
+2813,2025-02-13,Payroll processed,1-1000,Bank Account - Operating,Payroll processed,0.0,17968.47,17968.47
+2920,2025-02-27,Payroll processed,1-1000,Bank Account - Operating,Payroll processed,0.0,17968.47,17968.47
+3058,2025-03-13,Payroll processed,1-1000,Bank Account - Operating,Payroll processed,0.0,17968.47,17968.47
+3197,2025-03-27,Payroll processed,1-1000,Bank Account - Operating,Payroll processed,0.0,17968.47,17968.47
+3325,2025-04-10,Payroll processed,1-1000,Bank Account - Operating,Payroll processed,0.0,17968.47,17968.47
+3462,2025-04-24,Payroll processed,1-1000,Bank Account - Operating,Payroll processed,0.0,17968.47,17968.47
+4116,2025-06-19,Payroll processed,1-1000,Bank Account - Operating,Payroll processed,0.0,17968.47,17968.47
+363,2024-04-11,Payroll processed,1-1000,Bank Account - Operating,Payroll processed,0.0,17664.15,17664.15
+781,2024-06-20,Payroll processed,1-1000,Bank Account - Operating,Payroll processed,0.0,17640.43,17640.43
+216,2024-03-14,Payroll processed,1-1000,Bank Account - Operating,Payroll processed,0.0,17631.7,17631.7
+155,2024-02-29,Payroll processed,1-1000,Bank Account - Operating,Payroll processed,0.0,17599.26,17599.26
+5,2024-01-04,Payroll processed,1-1000,Bank Account - Operating,Payroll processed,0.0,17584.14,17584.14
+4877,2025-08-28,Payroll processed,1-1000,Bank Account - Operating,Payroll processed,0.0,17567.66,17567.66
+680,2024-06-06,Payroll processed,1-1000,Bank Account - Operating,Payroll processed,0.0,17510.59,17510.59
+4733,2025-08-14,Payroll processed,1-1000,Bank Account - Operating,Payroll processed,0.0,17507.81,17507.81
+29,2024-01-18,Payroll processed,1-1000,Bank Account - Operating,Payroll processed,0.0,17437.03,17437.03

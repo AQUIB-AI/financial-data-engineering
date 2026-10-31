@@ -1,0 +1,11 @@
+column,data_type,missing_values,missing_percentage,duplicate_rows_in_dataset
+id,str,0,0.0,0
+company_id,str,0,0.0,0
+code,str,0,0.0,0
+name,str,0,0.0,0
+account_type,str,0,0.0,0
+sub_type,str,0,0.0,0
+description,float64,60,100.0,0
+is_system,bool,0,0.0,0
+is_active,bool,0,0.0,0
+tax_code,str,0,0.0,0

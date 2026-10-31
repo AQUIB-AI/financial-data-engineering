@@ -1,0 +1,11 @@
+check,issue_count
+Journal entry lines,17027
+Duplicate journal entry lines,0
+Negative debit/credit amounts,0
+Both debit and credit positive,0
+Invalid or missing debit/credit,0
+Lines with missing journal entries,0
+Lines with missing accounts,0
+Unbalanced journal entries,0
+Accounts with missing companies,0
+Entries with missing companies,0

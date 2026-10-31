@@ -1,0 +1,5 @@
+dataset,column,missing_count,missing_percentage
+journal_entries,source_id,1,0.01
+journal_entry_lines,tax_code,17027,100.0
+chart_of_accounts,description,60,100.0
+companies,sales_tax_registration_date,1,100.0
