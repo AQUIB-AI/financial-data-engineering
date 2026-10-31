@@ -65,7 +65,10 @@ python src/financial_summary.py
 
 The Tableau dashboard visualizes monthly journal entry activity, debit and credit trends, and data quality indicators.
 
-Dashboard screenshots will be added here.
+![Financial Data Engineering Dashboard](screenshots/financial%20dashboards.png)
+
+*Built using Tableau Public to visualize monthly journal entry activity, debit and credit trends, and data quality indicators.*
+
 
 ## Outputs
 
